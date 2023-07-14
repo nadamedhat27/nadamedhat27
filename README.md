@@ -11,9 +11,9 @@
 ### 
 
 <div style="display: inline_block; text-align:center;" >
-  <img alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true">
-
-<img alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true&layout=compact">
+  <img width="100%" alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true">
+  <br>
+<img width="100%" alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true&layout=compact">
 </div>
 
 
