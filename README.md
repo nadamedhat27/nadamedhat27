@@ -10,7 +10,7 @@
 
 ### 
 
-<div style="display: inline_block; text-align:center;" >
+<div style="display: inline_block;" align="center">
     <img alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true">
     <br>
     <img src="https://streak-stats.demolab.com?user=nadamedhat27&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
