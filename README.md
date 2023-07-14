@@ -6,6 +6,19 @@
 
 ###
 
-### Languages used in my projects 
+# Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadamedhat27&theme=blue-green)](https://github.com/nadamedhat27/github-readme-stats)
+### 
+
+<div style="display: inline_block; text-align:center;" >
+  <img alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true">
+
+<img alt="Nada's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=nadamedhat27&show_icons=true&theme=dark&hide_border=true&layout=compact">
+</div>
+
+
+###
+
+### Contributions Gtid (not working yet)
+<img src="https://raw.githubusercontent.com/nadamedhat27/nadamedhat27/output/github-contribution-grid-snake.svg" alt="Contributions Grid" />
+
