@@ -24,10 +24,10 @@
 
 ### Contributions Grid (not working yet)
 
-<img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/output/github-contribution-grid-snake.svg" alt="Contributions Grid" />
+...
 
 
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
