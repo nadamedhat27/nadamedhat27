@@ -27,7 +27,9 @@
 ...
 
 
-
 ### ✍️ Dev Quote
+<div style="display: inline_block;" align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
